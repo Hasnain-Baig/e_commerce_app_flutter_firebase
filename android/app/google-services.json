@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833787122079",
+    "project_id": "e-commerce-app-flutter-athon",
+    "storage_bucket": "e-commerce-app-flutter-athon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833787122079:android:f78d97c665560f81d32daa",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce_app_flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833787122079-o4nmq6pd3u942h7jfe8jmb3tkhoq0fe2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKXR8fcfsB48SyUW06u86AHZJF0ZI-USU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833787122079-o4nmq6pd3u942h7jfe8jmb3tkhoq0fe2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
